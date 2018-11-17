@@ -2,4 +2,7 @@
 the first commit on this file
 
 
-to persist the changes directly without putting it to stagin area 
+to persist the changes directly without putting it to stagin are
+
+
+some more changes to the file 
