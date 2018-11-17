@@ -1,2 +1,5 @@
+
 the first commit on this file
 
+
+to persist the changes directly without putting it to stagin area 
